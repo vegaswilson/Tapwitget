@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding = "utf-8"?>
+<selector xmlns:xmlns="http://schemas.android.com/apk/res/android">
+    <!--when select, use qrey -->
+    <item
+        xmlxs:drawable="@drawble/ic_tab_2"
+        xmlxs:state_selected="true"/>
+    <!--when select, use white -->
+    <item
+        xmlxs:drawable="@drawble/ic_tab_2_wh"/>
+</selector>
